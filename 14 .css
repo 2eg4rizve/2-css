@@ -1,0 +1,29 @@
+.ok {
+    display: flex;
+    background-color: rgb(123, 27, 187);
+    border: 5px solid rgb(31, 28, 28);
+    height: 300px;
+    margin: 20px;
+    background-image: url(1st.jpg);
+}
+
+.blog {
+
+    color: rgb(24, 192, 192);
+    background-color: rgb(104, 16, 16);
+    
+    width: 200px;
+    /*box width*/
+    height: 200px;
+    /*box height*/
+    border: 5px solid tomato;
+    /*dot dashed*/
+    border-radius: 300px;
+    /*conner gol hoba */
+    margin: 35px;
+    /*sob dik take 10px(u,d,r,l)..margin top,right,left,down asa*/
+    text-align: justify;
+    /*justify;paragraph sob dik take soman korar jonno*/
+    padding: 20px;
+    /*4dik take vitora jaba*/
+}
